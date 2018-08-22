@@ -1,1 +1,2 @@
-# byshako.github.io
+# Shalva Kavtaradze
+Web developer
